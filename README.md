@@ -1,23 +1,113 @@
 <h1 align="center">Hi 👋, I'm Atharva Bhalerao</h1>
-<h3 align="center">Turning Code into Impact</h3>
+<h3 align="center">Aspiring Data Scientist | Turning Data into Decisions 📊</h3>
 
-- 🔭 I’m currently working on **Final Year college Porject**
+---
 
-- 🌱 I’m currently learning **SpringBoot**
+### 🚀 About Me
 
-- 🤝 I’m looking for help with **Green Hash**
+- 🎓 Final-year **B.Tech IT student** passionate about **Data Science, Machine Learning & Analytics**
+- 📈 Built real-world projects in **Time Series Forecasting, Predictive Modeling & SQL Analytics**
+- 🌱 Currently learning **Advanced Machine Learning, Model Deployment & Cloud Basics**
+- 💡 Interested in solving business problems using **data-driven insights**
 
-- 💬 Ask me about **DSA , Java , Spring , Python**
+---
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGrVco8Q4A/JinRQ2pxl9AaANfJdgyadA/view?utm_content=DAGrVco8Q4A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7a518db86f](https://www.canva.com/design/DAGrVco8Q4A/JinRQ2pxl9AaANfJdgyadA/view?utm_content=DAGrVco8Q4A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7a518db86f)
+### 🔥 What I’m Working On
 
-- ⚡ Fun fact **I debug better with chai ☕ and bad puns. Probably in that order.**
+- 🔭 End-to-End **Oil Price Forecasting System (1985–2026)**  
+  *(ARIMA, SARIMA, Random Forest, Feature Engineering, RMSE/MAE)*
 
-<h3 align="left">Connect with me:</h3>
+- 📊 Strengthening skills in **EDA, Machine Learning Pipelines & Data Analytics**
+
+- 🤝 Open to **Data Science Internships / Entry-Level Analyst Roles**
+
+---
+
+### 💬 Ask Me About
+
+- Python (Pandas, NumPy, Scikit-learn)
+- Machine Learning (Regression, Classification, Time Series)
+- SQL (Joins, CTEs, Window Functions)
+- Data Analysis & Visualization
+- Real-World Forecasting Projects
+
+---
+
+### ⚡ Fun Fact  
+**I debug models better with chai ☕ and curiosity.**
+
+---
+
+<h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/atharva-bhalerao-b62787298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-bhalerao-b62787298/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/atharvabhalerao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharvabhalerao/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/atharva-bhalerao-b62787298/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/atharvabhalerao/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+<h3 align="left">🛠 Data Science Tools & Technologies:</h3>
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.tableau.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="45" height="45"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="45" height="45"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+</a>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+✅ **Oil Price Forecasting (1985–2026)**  
+- Time-Series EDA + ARIMA/SARIMA Baselines  
+- Random Forest with Lag Features  
+- Forecasting Pipeline + RMSE/MAE Evaluation  
+
+✅ **Netflix Data Analytics (SQL Project)**  
+- 8,800+ Records Analysis  
+- Window Functions, CTEs, Trend Insights  
+
+✅ **Divorce Prediction (Logistic Regression)**  
+- Classification Model + Feature Engineering  
+- Precision, Recall, F1-score Metrics  
+
+---
+
+<h3 align="center">✨ Always learning. Always building. Always improving. ✨</h3>
+
