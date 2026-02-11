@@ -20,6 +20,7 @@
 - 📊 Strengthening skills in **EDA, Machine Learning Pipelines & Data Analytics**
 
 - 🤝 Open to **Data Science Internships / Entry-Level Analyst Roles**
+- Converting data findings into business meaning and action.
 
 ---
 
