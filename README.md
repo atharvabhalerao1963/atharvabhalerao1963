@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year **B.Tech IT student** passionate about **Data Science, Machine Learning & Analytics**
+- 🎓  **B.Tech IT student** passionate about **Data Science, Machine Learning & Analytics**
 - 📈 Built real-world projects in **Time Series Forecasting, Predictive Modeling & SQL Analytics**
 - 🌱 Currently learning **Advanced Machine Learning, Model Deployment & Cloud Basics**
 - 💡 Interested in solving business problems using **data-driven insights**
