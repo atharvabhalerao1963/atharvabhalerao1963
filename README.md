@@ -1,114 +1,85 @@
-<h1 align="center">Hi 👋, I'm Atharva Bhalerao</h1>
-<h3 align="center">Aspiring Data Scientist | Turning Data into Decisions 📊</h3>
+<h1 align="center">Hi, I'm Atharva Bhalerao 👋</h1>
+<h3 align="center">AI/ML Engineer | Generative AI · RAG Systems · Applied Machine Learning</h3>
 
----
-
-### 🚀 About Me
-
-- 🎓  **B.Tech IT student** passionate about **Data Science, Machine Learning & Analytics**
-- 📈 Built real-world projects in **Time Series Forecasting, Predictive Modeling & SQL Analytics**
-- 🌱 Currently learning **Advanced Machine Learning, Model Deployment & Cloud Basics**
-- 💡 Interested in solving business problems using **data-driven insights**
-
----
-
-### 🔥 What I’m Working On
-
-- 🔭 End-to-End **Oil Price Forecasting System (1985–2026)**  
-  *(ARIMA, SARIMA, Random Forest, Feature Engineering, RMSE/MAE)*
-
-- 📊 Strengthening skills in **EDA, Machine Learning Pipelines & Data Analytics**
-
-- 🤝 Open to **Data Science Internships / Entry-Level Analyst Roles**
-- Converting data findings into business meaning and action.
-
----
-
-### 💬 Ask Me About
-
-- Python (Pandas, NumPy, Scikit-learn)
-- Machine Learning (Regression, Classification, Time Series)
-- SQL (Joins, CTEs, Window Functions)
-- Data Analysis & Visualization
-- Real-World Forecasting Projects
-
----
-
-### ⚡ Fun Fact  
-**I debug models better with chai ☕ and curiosity.**
-
----
-
-<h3 align="left">🌐 Connect with Me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/atharva-bhalerao-b62787298/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/atharvabhalerao/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-</a>
+<p align="center">
+📍 Pune, Maharashtra, India &nbsp;|&nbsp; 📧 atharvabhalerao1963@gmail.com &nbsp;|&nbsp;
+<a href="https://www.linkedin.com/in/atharva-bhalerao-b62787298/">LinkedIn</a>
 </p>
 
 ---
 
-<h3 align="left">🛠 Data Science Tools & Technologies:</h3>
+### 🧠 About Me
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
-</a>
+I'm an AI/ML Engineer who builds and ships production-style systems — not just notebooks. I've built a RAG-based HR assistant, an AI-powered business intelligence platform, and a live pharmaceutical classification app, using **LangChain, ChromaDB, FastAPI, and Streamlit**. Comfortable across the full pipeline: data preprocessing, model training/tuning (XGBoost, SMOTE), explainability (SHAP), and deployment with Docker.
 
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
-</a>
-
-<a href="https://www.tableau.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="45" height="45"/>
-</a>
-
-<a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="45" height="45"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-</a>
-</p>
+Currently looking for **entry-level AI/ML Engineering or Data Science roles** where I can keep building real systems.
 
 ---
 
-### 📌 Featured Projects
+### ⚙️ Tech Stack
 
-✅ **Oil Price Forecasting (1985–2026)**  
-- Time-Series EDA + ARIMA/SARIMA Baselines  
-- Random Forest with Lag Features  
-- Forecasting Pipeline + RMSE/MAE Evaluation  
+**AI & Generative AI**
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6F00?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-4B8BBE?style=flat-square)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-✅ **Netflix Data Analytics (SQL Project)**  
-- 8,800+ Records Analysis  
-- Window Functions, CTEs, Trend Insights  
+**Programming & Backend**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-✅ **Divorce Prediction (Logistic Regression)**  
-- Classification Model + Feature Engineering  
-- Precision, Recall, F1-score Metrics  
+**ML & Data**
+![XGBoost](https://img.shields.io/badge/-XGBoost-EC0000?style=flat-square)
+![Scikit--learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Cloud & DevOps**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
-<h3 align="center">✨ Always learning. Always building. Always improving. ✨</h3>
+### 🚀 Featured Projects
 
+#### 🧩 [LeadGPT — AI Business Intelligence Platform](https://github.com/atharvabhalerao1963/LeadGpt)
+`FastAPI` `Streamlit` `LangChain` `ChromaDB` `Groq LLM`
+Multi-agent RAG + LLM platform combining ML-driven lead quality prediction with conversational analytics and forecasting. Interactive Streamlit dashboard backed by a FastAPI microservices layer.
+
+#### 🏢 [Enterprise HR Policy Assistant (RAG-Based AI System)](https://github.com/atharvabhalerao1963/Enterprise-HR-Policy-Assistant-RAG-Based-AI-System-)
+`LangChain` `ChromaDB` `FastAPI` `Docker`
+Production RAG pipeline letting employees query HR policies in natural language — semantic search over vector embeddings combined with LLM-generated, document-grounded responses. Dockerized for repeatable deployment.
+
+#### 💊 [Pharmaceutical Regulatory Intelligence System](https://pharma-regulatory-ai.streamlit.app/)
+`XGBoost` `SMOTE` `SHAP` `Streamlit`
+ML pipeline classifying 60K+ pharmaceutical drug records as Regulated/Non-Regulated on a highly imbalanced dataset. Deliberately prioritized recall (73%) over precision — since missing a regulated drug is costlier than a false flag. Live app with SHAP-based explainability and a governance dashboard.
+
+#### 📈 Oil Price Forecasting System (1985–2026)
+`ARIMA` `SARIMA` `Random Forest`
+End-to-end time-series forecasting pipeline with feature engineering and RMSE/MAE evaluation across statistical and ML baselines.
+
+---
+
+### 💼 Experience
+
+**AI/ML Intern (Course-Affiliated Program)** — Rubixe AI · Jan 2026–Present
+Built an end-to-end customer transaction prediction pipeline on a 200-feature banking dataset. Trained and evaluated 5 ML models, optimizing final XGBoost to **0.88 ROC-AUC** with 66% minority-class recall via SMOTE and threshold tuning.
+
+---
+
+### 🎓 Education & Certifications
+
+- **B.Tech, Information Technology** — MGM University, Aurangabad (CGPA: 8.63/10.0), 2022–2026
+- **Certified Data Scientist** — NASSCOM FutureSkills PRIME (Gold, 90/100)
+- **Data Science Foundation** — IABAC
+- **Certified Data Scientist** — Datamites (8-month program)
+
+---
+
+
+
+<p align="center"><i>Building and shipping real AI/ML systems — not just experimenting with them.</i></p>
